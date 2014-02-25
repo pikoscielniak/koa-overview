@@ -1,0 +1,15 @@
+{
+  "name": "KoaOverview",
+  "version": "0.0.0",
+  "description": "A test of koa framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "mongoose": "~3.8.8"
+  }
+}
